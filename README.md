@@ -12,3 +12,15 @@ ok  	github.com/lwc/scriptoria	1.281s
 
 ```
 
+## Why?
+
+Great question.
+
+## What's with the name?
+
+```
+scriptorium
+plural noun: scriptoria
+
+A room set apart for writing, especially one in a monastery where manuscripts were copied.
+```
