@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/russross/blackfriday
+- package: github.com/microcosm-cc/bluemonday
+- package: github.com/dvsekhvalnov/jose2go

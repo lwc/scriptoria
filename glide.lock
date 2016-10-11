@@ -1,0 +1,25 @@
+hash: 3f74717151f345135d6503d66b1c71ec654ae935012153679fae5513615cbfdf
+updated: 2016-10-11T18:36:26.539187646+11:00
+imports:
+- name: github.com/dvsekhvalnov/jose2go
+  version: 2a04a552f4a8adf7d51731877b7a2021bab968bb
+  subpackages:
+  - aes
+  - arrays
+  - base64url
+  - compact
+  - kdf
+  - keys/ecc
+  - padding
+- name: github.com/microcosm-cc/bluemonday
+  version: c7147e5ce8a53548b042919b4314f075a628278b
+- name: github.com/russross/blackfriday
+  version: 0b647d0506a698cca42caca173e55559b12a69f2
+- name: github.com/shurcooL/sanitized_anchor_name
+  version: 1dba4b3954bc059efc3991ec364f9f9a35f597d2
+- name: golang.org/x/net
+  version: cf4effbb9db1f3ef07f7e1891402991b6afbb276
+  subpackages:
+  - html
+  - html/atom
+testImports: []
